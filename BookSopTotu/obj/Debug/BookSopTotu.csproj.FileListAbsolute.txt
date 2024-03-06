@@ -1,0 +1,16 @@
+E:\project\cproject\BookSopTotu\obj\Debug\BookSopTotu.csproj.AssemblyReference.cache
+E:\project\cproject\BookSopTotu\bin\Debug\BookSopTotu.exe.config
+E:\project\cproject\BookSopTotu\bin\Debug\BookSopTotu.exe
+E:\project\cproject\BookSopTotu\bin\Debug\BookSopTotu.pdb
+E:\project\cproject\BookSopTotu\obj\Debug\BookSopTotu.books.resources
+E:\project\cproject\BookSopTotu\obj\Debug\BookSopTotu.Form1.resources
+E:\project\cproject\BookSopTotu\obj\Debug\BookSopTotu.Login.resources
+E:\project\cproject\BookSopTotu\obj\Debug\BookSopTotu.manage.resources
+E:\project\cproject\BookSopTotu\obj\Debug\BookSopTotu.Properties.Resources.resources
+E:\project\cproject\BookSopTotu\obj\Debug\BookSopTotu.users.resources
+E:\project\cproject\BookSopTotu\obj\Debug\BookSopTotu.csproj.GenerateResource.cache
+E:\project\cproject\BookSopTotu\obj\Debug\BookSopTotu.csproj.CoreCompileInputs.cache
+E:\project\cproject\BookSopTotu\obj\Debug\BookSopTotu.exe
+E:\project\cproject\BookSopTotu\obj\Debug\BookSopTotu.pdb
+E:\project\cproject\BookSopTotu\obj\Debug\BookSopTotu.Billing.resources
+E:\project\cproject\BookSopTotu\obj\Debug\BookSopTotu.AdminLogin.resources
